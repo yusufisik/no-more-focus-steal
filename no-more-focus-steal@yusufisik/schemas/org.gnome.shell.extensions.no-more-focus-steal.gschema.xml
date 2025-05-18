@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.no-more-focus-steal" path="/org/gnome/shell/extensions/no-more-focus-steal/">
+    <key name="whitelist" type="as">
+      <default>[]</default>
+      <summary>Whitelist entries</summary>
+      <description>List of applications (WM_CLASS) allowed to steal focus, formatted as 'WM_CLASS:1' or 'WM_CLASS:0'.</description>
+    </key>
+  </schema>
+</schemalist>

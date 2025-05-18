@@ -1,0 +1,10 @@
+{
+    "name": "No More Focus Steal",
+    "description": "No More Focus Steal is an extension that removes the annoying window stealing behaviour while you have already focused another window.",
+    "uuid": "no-more-focus-steal@yusufisik",
+    "shell-version": ["47","48"],
+    "prefs": "prefs.js",
+    "url": "https://github.com/yusufisik/no-more-focus-steal",
+    "gettext-domain": "no-more-focus-steal@yusufisik",
+    "settings-schema": "org.gnome.shell.extensions.no-more-focus-steal"
+}
